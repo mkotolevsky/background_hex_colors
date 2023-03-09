@@ -1,4 +1,6 @@
 # background_hex_colors
-Allows you to update the colors on the page using the space bar. With the help of a lock, you can fix a certain color, it will not change.
+Позволяет обновлять цвета на странице с помощью пробела.  
+С помощью замка вы можете зафиксировать определенный цвет, он не изменится.  
+При обновлении страницы цвета, находящиеся под замком, остаются.
 
-[Open project](https://mkotolevsky.github.io/background_hex_colors/)
+[Открыть](https://mkotolevsky.github.io/background_hex_colors/)
